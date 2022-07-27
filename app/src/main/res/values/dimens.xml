@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gallery_columns">2</integer>
+    <integer name="highlighted_stoke_width">5</integer>
+    <dimen name="dimens_5">5dp</dimen>
+    <dimen name="dimens_10">10dp</dimen>
+    <dimen name="item_width">180dp</dimen>
+    <dimen name="poster_height">300dp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+
+
+
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_15dp">15dp</dimen>
+    <dimen name="_40dp">40dp</dimen>
+    <dimen name="_17sp">17sp</dimen>
+    <dimen name="_14sp">14sp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_16sp">16sp</dimen>
+    <dimen name="_13sp">13sp</dimen>
+    <dimen name="_52dp">52dp</dimen>
+    <dimen name="_100dp">100dp</dimen>
+    <dimen name="_0dp">0dp</dimen>
+    <dimen name="image_dimension">100dp</dimen>
+    <dimen name="parent_margin_and_padding_dimen">15dp</dimen>
+    <dimen name="_30dp">30dp</dimen>
+</resources>
